@@ -21,11 +21,6 @@
   equipment:
     outerClothing: ClothingOuterCoatMantis
 
-- type: loadout
-  id: MantisWintercoat
-  equipment:
-    outerClothing: ClothingOuterWinterCoatMantis
-
 # Shoes
 - type: loadout
   id: MantisBoots
