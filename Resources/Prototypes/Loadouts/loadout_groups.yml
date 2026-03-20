@@ -1142,20 +1142,6 @@
   - ScienceJumpsuit # HL - Add departmental NF-style loadouts
   - ContractorJumpsuit # HL - Add departmental NF-style loadouts
 
-- type: roleLoadout # HL - Add Delta-V Mantis loadout
-  id: JobForensicMantis
-  groups:
-  - GroupTankHarness
-  - MantisHead
-  - MantisJumpsuit
-  - ScientistBackpack
-  - MantisOuterClothing
-  - MantisShoes
-  - MantisGloves
-  - Survival
-  - Trinkets
-  - GroupSpeciesBreathTool
-
 # Security
 - type: loadoutGroup
   id: HeadofSecurityHead
